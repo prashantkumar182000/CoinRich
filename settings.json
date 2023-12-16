@@ -1,0 +1,6 @@
+{
+    "java.classpath": [
+        "/home/user/Videos/cashrich/gson-2.9.0.jar",  // Replace with the actual path to your Gson JAR file
+        "${workspaceFolder}/*.java"
+    ]
+}
